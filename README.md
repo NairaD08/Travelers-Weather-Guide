@@ -46,3 +46,4 @@ For any questions, feedback, or collaboration inquiries, please feel free to rea
 - GitHub: [https://github.com/NairaD08]
 
 Thank you for using the Traveler's Weather Guide! We hope it helps you plan your adventures with ease and confidence. Safe travels!
+![image alt](https://github.com/NairaD08/Travelers-Weather-Guide/blob/7de2b7a1e8dd6ac3e71204b7b3864a973242d4ae/assets/Traveler's%20Weather%20Guide.png)
